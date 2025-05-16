@@ -1,0 +1,22 @@
+{
+  "name": "practice-1",
+  "version": "1.0.0",
+  "description": "assem",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "assem",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^5.2.0",
+    "cypress": "^13.6.3",
+    "mocha": "^11.1.0"
+  },
+  "devDependencies": {
+    "@badeball/cypress-cucumber-preprocessor": "^22.0.1",
+    "@bahmutov/cypress-esbuild-preprocessor": "^2.2.5",
+    "esbuild": "^0.25.4",
+    "ts-loader": "^9.5.2"
+  }
+}

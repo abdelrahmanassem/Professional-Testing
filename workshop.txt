@@ -1,0 +1,23 @@
+test group(suit)
+test cases
+
+to run one test cases use it only
+
+
+
+
+
+
+
+test group --> login
+1-- enter valid email and valid password
+2- enter invlaid email and invalid password
+3- enter invlaid email with valid password
+4-enter valid email and invalid password
+
+test group = Describe 
+tes case =it;
+
+
+***
+cy.visit("website URL)
